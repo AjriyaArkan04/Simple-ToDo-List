@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const API_URL = "http://localhost:5000/api/todos";
+const API_URL = "https://simple-todo-list-production.up.railway.app/api/todos";
 
 const styles = {
   app: {
